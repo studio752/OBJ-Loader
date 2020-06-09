@@ -10,7 +10,7 @@
 #include <fstream>
 
 // OBJ_Loader - .obj Loader
-#include "OBJ_Loader.h"
+#include "obj_loader.h"
 
 // Main function
 int main(int argc, char* argv[])
